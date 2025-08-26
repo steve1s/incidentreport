@@ -1,0 +1,14 @@
+name: report
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - folium
+  - geopandas
+  - pip
+  - pip:
+      - streamlit-folium
+      - python-dotenv

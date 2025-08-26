@@ -3,5 +3,4 @@ pandas
 folium
 geopandas
 streamlit-folium
-hashlib
-re
+python-dotenv
