@@ -1,0 +1,8 @@
+Reporter Name: Jon
+Reporter Details: california
+Incident Title: scratch
+Description: got a small dent
+Vehicle Registration Number: L12345
+Owner Name: 
+Witness Information: Local
+Witness Address: california

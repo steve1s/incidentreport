@@ -1,0 +1,8 @@
+streamlit
+sqlite3
+pandas
+folium
+geopandas
+streamlit-folium
+hashlib
+re
