@@ -1,4 +1,0 @@
-Reporter Name: Jon
-Reporter Details: california
-Incident Title: scratch
-Description: got a small dent
